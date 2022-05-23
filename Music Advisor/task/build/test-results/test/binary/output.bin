@@ -1,0 +1,11 @@
+[1;31m
+Start test 1[0m
+> auth
++use this link to request the access code:
+ƒhttp://127.0.0.1:45678/authorize?client_id=2e85af4779124ccdbe87bf078a323a84&redirect_uri=http://localhost:8888&response_type=code
+waiting for code...
+code received
+)making http request for access_token...
+@Tester: making requests to redirect uri: http://localhost:8888
+response:
+Tester: Error: null
