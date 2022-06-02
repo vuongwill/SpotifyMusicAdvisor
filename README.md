@@ -4,5 +4,5 @@
 
 ## Description
 A application that uses Spotify's API to suggest music to the user.  
-Parses JSON data to give user links to albums/playlists. 
+Parses JSON data to give user links to albums/playlists.  
 Divides information into several pages.
